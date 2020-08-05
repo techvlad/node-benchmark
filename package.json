@@ -12,7 +12,7 @@
   "dependencies": {
     "express": "^4.17.1",
     "fast-json-stringify": "^1.16.3",
-    "fastify": "^2.12.0",
+    "fastify": "^2.15.1",
     "pm2": "^4.2.3",
     "uWebSockets.js": "github:uNetworking/uWebSockets.js#v17.0.0"
   }
