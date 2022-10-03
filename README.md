@@ -12,7 +12,7 @@ Frameworks:
 - Windows 10
 - Intel Core i7-8550U
 
-## Single instance
+## Single instance (in thousands)
 
 | express     | fastify     | http        | uSocket     | uSocket + fast json |
 | ----------- | ----------- | ----------- | ----------- | ------------------- |
@@ -22,7 +22,7 @@ Frameworks:
 | Average     | Average     | Average     | Average     | Average             |
 | 276.6666667 | 624.3333333 | 583.3333333 | 1008.333333 | 1068                |
 
-## Cluster (PM2)
+## Cluster (PM2) (in thousands)
 
 | express     | fastify | http    | uSocket | uSocket + fast json |
 | ----------- | ------- | ------- | ------- | ------------------- |
